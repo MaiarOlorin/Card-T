@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url("../Imagens/backgorund.png") no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.git{
+    list-style-image:url(../Imagens/git.png) ;
+
+}
+
+.linkdin{
+    list-style-image:url(../Imagens/linkin.jpg) ;
+
+}
+
+.instagram{
+    list-style-image:url(../Imagens/Insta.png) ;
+
+}
